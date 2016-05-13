@@ -1,0 +1,37 @@
+---
+layout: null
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class='index'>
+    {% include index/hero.html %}
+
+    {% include index/menu.html %}
+
+    {% include index/cfp.html %}
+    {% include index/speakers.html %}
+    {% include index/mailing_list.html %}
+    {% include index/location.html %}
+
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="/js/jquery-1.11.3.min.js?ver=1"></script>
+    <![endif]-->
+    <!--[if (gte IE 9) | (!IE)]><!-->
+      <script type="text/javascript" src="/js/jquery-2.1.4.min.js?ver=1"></script>
+    <!--<![endif]-->
+
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=places"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="/js/toastr.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.waypoints.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="/js/jquery.plugin.js"></script>
+    <script type="text/javascript" src="/js/jquery.countTo.js"></script>
+    <script type="text/javascript" src="/js/ventcamp.js"></script>
+  </body>
+</html>

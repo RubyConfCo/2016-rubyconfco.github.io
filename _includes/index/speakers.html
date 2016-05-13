@@ -1,0 +1,36 @@
+<section class="section align-center" id="speakers">
+<div class="container">
+
+  <h2>Speakers</h2>
+
+  {% for speaker in site.speakers %}
+
+  <div class="col-sm-6">
+    <div class="speaker">
+      <div class="photo-wrapper">
+        <img src="{{ speaker.photo | prepend: "/img/speakers/" }}" alt="{{ speaker.name}}" class="img-responsive" />
+      </div>
+
+      <h3 class="name">{{ speaker.name}} </h3>
+      <p class="text-alt">
+        <small>{{ speaker.company }}</small>
+      </p>
+      <p class="about">
+        {{ speaker.bio }}
+      </p>
+
+      <ul class="speaker-socials">
+        {% if speaker.twitter %}
+          <li><a href="https://twitter.com/{{ speaker.twitter }}"><span class="fa fa-twitter"></span></a></li>
+        {% endif %}
+
+        {% if speaker.github %}
+          <li><a href="https://github.com/{{ speaker.github }}"><span class="fa fa-github"></span></a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
+</section>
