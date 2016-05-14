@@ -1,38 +1,26 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
+<section class="footer">
+  <div>
+    <img src="img/backgrounds/skyline.svg">
   </div>
 
-</footer>
+    <div class="footer-base">
+      <div class="container">
+
+        <div class="col-md-6">
+          <ul class="footer-nav">
+            <li class="footer-nav-item"><a href="mailto:organizers@rubyconf.co">Contact</a></li>
+            <li class="footer-nav-item"><a href="/code-of-conduct.html">Code of Conduct</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-6 align-right">
+          <ul class="socials-nav align-right">
+            <li class="socials-nav-item"><a href="https://twitter.com/RubyConfCo" target="_blank"><span class="fa fa-twitter"></span></a></li>
+            <li class="socials-nav-item"><a href="https://facebook.com/RubyConfCo" target="_blank"><span class="fa fa-facebook"></span></a></li>
+          </ul>
+          <p class="text-alt"><small>Brought to you by Ruby Colombia</small></p>
+        </div>
+
+      </div>
+    </div>
+</section>
