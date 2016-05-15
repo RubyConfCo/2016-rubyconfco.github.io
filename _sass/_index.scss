@@ -38,28 +38,6 @@
     }
   }
 
-  #main-menu {
-    .logo {
-      position: absolute;
-      display: inline-block;
-      padding: 0;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      margin: 13.5px auto;
-      max-width: 120px;
-      height: 100%;
-      max-height: 100%;
-    }
-
-    .navigation-header{
-      margin: 0 auto;
-      padding: 0;
-      vertical-align: middle;
-    }
-  }
-
   #cfp {
     #cfp-link {
       display: inline-block;
@@ -121,5 +99,27 @@
 
   #location {
     padding-top: 0;
+  }
+}
+
+#main-menu {
+  .logo {
+    position: absolute;
+    display: inline-block;
+    padding: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 13.5px auto;
+    max-width: 120px;
+    height: 100%;
+    max-height: 100%;
+  }
+
+  .navigation-header{
+    margin: 0 auto;
+    padding: 0;
+    vertical-align: middle;
   }
 }

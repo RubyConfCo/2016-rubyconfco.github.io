@@ -1,6 +1,7 @@
 ---
 layout: default
-title: CITIZEN CODE OF CONDUCT RubyConf Colombia
+title: Citizen Code of Conduct RubyConf Colombia
+excerpt: "At RubyConf Colombia we dedicate ourselves to making everyone feel welcome and at home, both during the conference and events. Our Code of Conduct offers some guidelines to ensure this for both attendees and speakers."
 ---
 
 ## CITIZEN CODE OF CONDUCT
