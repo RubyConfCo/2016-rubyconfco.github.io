@@ -88,4 +88,4 @@ RubyConf esta devuelta este 2016. Para hacertelo mas fácil, hicimos
   toleramos el acoso de participantes de la conferencia en ninguna forma.
   Quienes incumplan estas reglas pueden ser sancionados o expulsados de la
   conferencia sin recibir un reembolso según el criterio de los organizadores
-  de la conferencia. Para conocer más lee nuestro [código de conducta](http://www.rubyconf.co/code-of-conduct.html).
+  de la conferencia. Para conocer más lee nuestro [código de conducta](http://www.rubyconf.co/codigo-de-conducta).
