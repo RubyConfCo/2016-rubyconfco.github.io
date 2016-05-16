@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include index/menu.html %}
+
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            {{ content }}
+          </div>
+
+          <div class="col-md-3 col-md-offset-1 hidden-sm">
+            {% include blog_sidebar.html %}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="/js/jquery-1.11.3.min.js?ver=1"></script>
+    <![endif]-->
+    <!--[if (gte IE 9) | (!IE)]><!-->
+      <script type="text/javascript" src="/js/jquery-2.1.4.min.js?ver=1"></script>
+    <!--<![endif]-->
+
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+  </body>
+
+</html>

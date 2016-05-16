@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: post
 title: RubyConf Colombia esta de vuelta para el 2016!
+permalink: blog/rubyconf_colombia_esta_de_vuelta
+current: blog
+created_at: Mon May 16 2016
 ---
 
-## RubyConf Colombia está de vuelta para el 2016!
-
-  Te invitamos a que vayas y compartas con tus amigos y personas allegadas que
-  RubyConf esta devuelta este 2016. Para hacertelo mas fácil, hicimos
-  [este increíble link en el que puedes ir y crear un tweet anunciando la buena noticia](https://twitter.com/home?status=I%20just%20found%20out%20that%20%40rubyconfco%20is%20going%20to%20be%20on%20September%202th%20and%203th%2C%202016%20in%20Medellin%2C%20Colombia%21%20http%3A%2F%2Fwww.rubyconf.co%2F).
+Te invitamos a que vayas y compartas con tus amigos y personas allegadas que
+RubyConf esta devuelta este 2016. Para hacertelo mas fácil, hicimos
+[este increíble link en el que puedes ir y crear un tweet anunciando la buena noticia](https://twitter.com/home?status=I%20just%20found%20out%20that%20%40rubyconfco%20is%20going%20to%20be%20on%20September%202th%20and%203th%2C%202016%20in%20Medellin%2C%20Colombia%21%20http%3A%2F%2Fwww.rubyconf.co%2F).
 
 ### ¿De qué trata este evento?
 
@@ -50,21 +51,21 @@ title: RubyConf Colombia esta de vuelta para el 2016!
   Como mencionamos anteriormente, este es una conferencia apoyada por la
   comunidad y nos encantaría contar con tu apoyo.
 
-#### ¿Estás interesado/interesada en dar una charla?
+##### ¿Estás interesado/interesada en dar una charla?
 
   No te pierdas esta gran oportunidad de dar una charla y compartir tus
   conocimientos sobre Ruby, Rails y temas relacionados con los demás
   desarrolladores y miembros de la comunidad, puedes proponer tu charla
   [acá](https://www.papercall.io/rubyconfco-2016).
 
-#### ¿Estás interesado/interesada en ser uno de nuestros patrocinadores?
+##### ¿Estás interesado/interesada en ser uno de nuestros patrocinadores?
 
   Genial! Estamos buscando patrocinadores, porfavor revisa el prospecto para
   patrocinadores [acá](http://www.rubyconf.co/assets/rubyconf_2016.pdf) y
   escríbenos al email **organizers@rubyconf.co** con cualquier inquietud al
   respecto.
 
-#### ¿Estás interesado/interesada en hacer parte de nuestros voluntarios?
+##### ¿Estás interesado/interesada en hacer parte de nuestros voluntarios?
 
   Perfecto, tu también haces parte de la comunidad y necesitaremos toda la ayuda
   posible, en especial cuando se este acercando la fecha del evento, dicho esto

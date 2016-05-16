@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: post
 title: RubyConf Colombia is Back for 2016!
+permalink: blog/rubyconf_colombia_is_back
+current: blog
+created_at: Mon May 16 2016
 ---
 
-## RubyConf Colombia is Back for 2016!
 
-  You're more than welcome, _encouraged_—to go ahead and share the news with
-  your friends and loved ones. In order to make it easier for you, we made
-  [this incredible link that you can click on to create a tweet announcing the good news](https://twitter.com/home?status=I%20just%20found%20out%20that%20%40rubyconfco%20is%20going%20to%20be%20on%20September%202th%20and%203th%2C%202016%20in%20Medellin%2C%20Colombia%21%20http%3A%2F%2Fwww.rubyconf.co%2F).
+You're more than welcome, _encouraged_—to go ahead and share the news with
+your friends and loved ones. In order to make it easier for you, we made
+[this incredible link that you can click on to create a tweet announcing the good news](https://twitter.com/home?status=I%20just%20found%20out%20that%20%40rubyconfco%20is%20going%20to%20be%20on%20September%202th%20and%203th%2C%202016%20in%20Medellin%2C%20Colombia%21%20http%3A%2F%2Fwww.rubyconf.co%2F).
 
 ### What Event Is This?
 
@@ -43,18 +45,18 @@ title: RubyConf Colombia is Back for 2016!
   As we mentioned above, this is a community-driven conference and we'd love
   your support.
 
-#### I'm Interested in giving a talk
+##### I'm Interested in giving a talk
 
   Don’t miss this chance to talk all things Ruby, Rails and related technologies
   with other developers and enthusiasts [here](https://www.papercall.io/rubyconfco-2016).
 
-#### I'm Interested in Sponsoring
+##### I'm Interested in Sponsoring
 
   That's great! We're interested in having sponsors. please review our
   prospectus [here](http://www.rubyconf.co/assets/rubyconf_2016.pdf) and email
   us at **organizers@rubyconf.co** with any questions.
 
-#### I'm Interested in Volunteering
+##### I'm Interested in Volunteering
 
   Wonderfull. We're going to need your help as the event gets closer—especially
   since this a community-driven event and you're the community. That said, it's
