@@ -10,6 +10,20 @@
   <br/>
   <br/>
 
+  <h5 class="heading-alt">Silver</h5>
+  <div class="sponsors">
+    {% for sponsor in site.data.sponsor_silver %}
+      <div class="sponsor inline">
+        <a alt="{{ sponsor.name }}" target="_blank" href="{{sponsor.link}}">
+        <img src="/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <br/>
+  <br/>
+
   <h5 class="heading-alt">Supporter</h5>
   <div class="sponsors">
     {% for sponsor in site.data.sponsor_supporters %}
