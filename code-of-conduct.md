@@ -86,6 +86,8 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 Revision 2.0, adopted by the [Stumptown Syndicate board on 10 January 2013. Posted 17 March 2013.](http://stumptownsyndicate.org/)
 
 
+* * *
+
 
 ## CODIGO DE CONDUCTA
 
