@@ -1,3 +1,7 @@
 - name: Shopify
   link: "https://www.shopify.com/"
   image: "shopify.png"
+
+- name: Code School
+  link: "https://www.codeschool.com/"
+  image: "codeschool.png"
