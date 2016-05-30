@@ -3,7 +3,8 @@
 
   <h2>Speakers</h2>
 
-  {% for speaker in site.speakers %}
+  {% assign speakers = site.speakers| sort: 'name' %}
+  {% for speaker in speakers %}
 
   <div class="col-sm-4">
     <div class="speaker">
@@ -24,6 +25,10 @@
 
         {% if speaker.github %}
           <li><a href="https://github.com/{{ speaker.github }}"><span class="fa fa-github"></span></a></li>
+        {% endif %}
+
+        {% if speaker.dribbble %}
+          <li><a href="https://dribbble.com/{{ speaker.dribbble }}"><span class="fa fa-dribbble"></span></a></li>
         {% endif %}
       </ul>
     </div>
