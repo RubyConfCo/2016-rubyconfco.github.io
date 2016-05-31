@@ -6,7 +6,7 @@ current: blog
 created_at: Mon May 30 2016
 ---
 
-We are really excited to announce we have opened up our ticket sales for RubyConf Colombia 2016! You can get your ticket [here](https://ti.to/colombia-dev/rubyconf-colombia-2016).
+We are really excited to announce that on Tuesday May 31st at 8:00pm COT we will start selling ticket sales for RubyConf Colombia 2016! You can get your ticket [here](https://ti.to/colombia-dev/rubyconf-colombia-2016).
 
 Don’t miss your Early Bird Ticket! We have limited number for sale, which gives you savings of over 10% from the regular price tickets. Once the Early Bird tickets go out of stock, we’ll move it to regular price.
 
@@ -16,7 +16,7 @@ Go ahead and share the news with your friends and loved ones. In order to make i
 ![RubyConf Colombia Is Back](/img/blog/early_bird_tickets.gif)
 ----------
 
-Estamos muy emocionados de anunciar que hemos abierto la venta de las entradas para RubyConf Colombia 2016! Puedes adquirir tu entrada [aquí](https://ti.to/colombia-dev/rubyconf-colombia-2016).
+Estamos muy emocionados de anunciar el martes 31 de mayo a las 8:00pm hora colombiana, empezaremos a vender las entradas para RubyConf Colombia 2016! Puedes adquirir la tuya [aquí](https://ti.to/colombia-dev/rubyconf-colombia-2016).
 
 No te quedes sin tu Entrada Early Bird! Tenemos entradas limitadas en venta, con un 10% de descuento respecto al precio regular. Una vez las entradas de preventa se agoten, cambiarán al precio regular.
 
