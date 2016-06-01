@@ -16,6 +16,8 @@ Go ahead and share the news with your friends and loved ones. In order to make i
 
 * * *
 
+## Compra tu entrada "early bird"
+
 Estamos muy emocionados de anunciar el martes 31 de mayo a las 8:00pm hora colombiana, empezaremos a vender las entradas para RubyConf Colombia 2016! Puedes adquirir la tuya [aquí](https://ti.to/colombia-dev/rubyconf-colombia-2016).
 
 No te quedes sin tu Entrada Early Bird! Tenemos entradas limitadas en venta, con un 10% de descuento respecto al precio regular. Una vez las entradas de preventa se agoten, cambiarán al precio regular.

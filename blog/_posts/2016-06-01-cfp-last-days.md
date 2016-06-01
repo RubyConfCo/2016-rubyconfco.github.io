@@ -33,6 +33,8 @@ for all of us!
 
 * * *
 
+## Últimos días del CFP
+
 El plazo para enviar una propuesta de charla a RubyConf Colombia está a punto de
 terminar. No te pierdas esta gran oportunidad de presentar una charla en una
 conferencia en la ciudad de la eterna primavera, conocer gente increíble e
