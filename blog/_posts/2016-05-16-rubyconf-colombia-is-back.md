@@ -6,7 +6,7 @@ current: blog
 created_at: Mon May 16 2016
 ---
 
-![RubyConf Colombia Is Back](/img/blog/ImBack.png)
+![RubyConf Colombia Is Back](/img/blog/rubyconf-colombia-is-back.png)
 
 You're more than welcome, _encouraged_—to go ahead and share the news with
 your friends and loved ones. In order to make it easier for you, we made
