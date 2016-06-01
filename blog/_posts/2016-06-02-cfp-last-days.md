@@ -3,7 +3,7 @@ layout: post
 title: CFP last days
 permalink: blog/cfp_last_days
 current: blog
-created_at: Tue June 1 2016
+created_at: Thu June 2 2016
 ---
 
 ![Brillian idea](/img/blog/cfp-last-days.gif)

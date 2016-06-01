@@ -1,12 +1,12 @@
 ---
 layout: post
-title: RubyConf Colombia is Back for 2016!
+title: RubyConf Colombia is back for 2016!
 permalink: blog/rubyconf_colombia_is_back
 current: blog
 created_at: Mon May 16 2016
 ---
 
-![RubyConf Colombia Is Back](/img/blog/rubyconf-colombia-is-back.png)
+![RubyConf Colombia is back](/img/blog/rubyconf-colombia-is-back.png)
 
 You're more than welcome, _encouraged_—to go ahead and share the news with
 your friends and loved ones. In order to make it easier for you, we made

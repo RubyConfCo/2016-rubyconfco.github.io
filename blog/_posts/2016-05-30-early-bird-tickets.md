@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get your early bird ticket!
+title: Get your early bird ticket
 permalink: blog/get_your_early_bird_ticket
 current: blog
 created_at: Mon May 30 2016
