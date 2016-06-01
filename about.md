@@ -29,6 +29,7 @@ produce the conference whom we’d like to recognize here:
 * Nicolás Hock
 * Roberto Miranda
 * Sebastián Sogamoso
+* Simón Escobar
 * Stella Miranda
 
 #### Inclusivity
