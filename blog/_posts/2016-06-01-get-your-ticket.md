@@ -18,8 +18,7 @@ Ticket will be released in batches, these are the dates:
 * Early bird: **Sold out**
 * First batch: Monday June 6th at 7:00am COT
 * Second batch: Friday July 15th at 7:00am COT
-* Last batch: Monday August 15th at 7:00am COT, very few tickets at a higher   
-  price
+* Last batch: Monday August 15th at 7:00am COT, very few tickets at a higher price
 
 We strongly encourage you to buy them **as soon as possible** to guarantee your
 spot in RubyConf Colombia 2016 as we expect them to sell out well before the
