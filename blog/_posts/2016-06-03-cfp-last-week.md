@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CFP last days
-permalink: blog/cfp_last_days
+title: CFP last week
+permalink: blog/cfp_last_week
 current: blog
-created_at: Thu June 2 2016
+created_at: Thu June 3 2016
 ---
 
 ![Brillian idea](/img/blog/cfp-last-days.gif)
@@ -33,7 +33,7 @@ for all of us!
 
 * * *
 
-## Últimos días del CFP
+## Última semana del CFP
 
 El plazo para enviar una propuesta de charla a RubyConf Colombia está a punto de
 terminar. No te pierdas esta gran oportunidad de presentar una charla en una
