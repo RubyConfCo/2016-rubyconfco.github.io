@@ -17,6 +17,7 @@ We wont' be receiving any more talk proposals starting right now.
 ### Selection process
 
 Our selection process consists of 2 rounds of voting:
+
 * First round of voting will be done in the blind (meaning, we will anonymize
 all proposals so judges can't know who submitted what).
 * All proposals will be rated from 1 to 5.
@@ -49,6 +50,7 @@ No recibiremos más propuestas de charlas a partir de este momento.
 ### Proceso de selección
 
 Nuestro proceso de selección consiste en 2 rondas de votación:
+
 * En la primera ronda la votación será a ciegas (esto significa que vamos a
 anonimizar las propuestas para que el jurado no sepa quién es su autor).
 * Todas las propuestas serán calificadas de 1 a 5.
