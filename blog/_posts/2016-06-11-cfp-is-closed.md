@@ -6,7 +6,7 @@ current: blog
 created_at: Sat Jun 11 2016
 ---
 
-![RubyConf Colombia is back](/img/blog/rubyconf-colombia-is-back.png)
+![CFP is closed](/img/blog/cfp-is-closed.gif)
 
 The CFP is now officially closed! We are thrilled because we received over a
 hundred proposals of great quality. We are going to have a hard time selecting
