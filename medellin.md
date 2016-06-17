@@ -6,7 +6,8 @@ permalink: /guide_to_medellin
 
 ## Medellín will host RubyConf Colombia
 
-![Medellin](/img/backgrounds/bg4.jpg)
+<iframe src="https://player.vimeo.com/video/133187229" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/133187229">Video Promocional de la ciudad de Medell&iacute;n</a> from <a href="https://vimeo.com/bourbonms">Bourbon Mindshare Studios</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Medellín is the second largest city in [Colombia.](http://wikitravel.org/en/Colombia) It has over 3 million people and is the capital of the department of [Antioquia.](http://wikitravel.org/en/Antioquia) The weather in Medellín is considered to be mild, hence it being known as the 'City of everlasting spring'. Average daily temperatures are 22ºC (71ºF) , range from 15 to 30 degrees Celsius (60º-85ºF).
 
