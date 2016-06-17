@@ -59,8 +59,8 @@ cab using any of the available apps:
 
 *   There are integrated [bus routes](https://www.metrodemedellin.gov.co/Portals/4/mapLines/) which will drop you at a Metro station.
 
-**3.** [Uber](https://www.uber.com/) works really well in Medellin, we recommend
-this option for visitors from outside of Colombia.
+**3.** [Uber](https://www.uber.com/) works really well in Medellin, **we
+recommend this option for visitors from outside of Colombia**.
 
 #### Coffee shops and co-working spaces
 
@@ -92,9 +92,9 @@ Check the [hotels page on our conference website](http://www.rubyconf.co/hotels.
 
 #### Places to visit
 
-* [Botanical Garder - Jardin Botanico](http://www.medellin.travel/en/botanical-garden)
+* [Botanical Garder - Jardín Botánico](http://www.medellin.travel/en/botanical-garden)
 * [Nutibara and El Volador hills - Cerro el volador y cerro Nutibara](http://www.medellin.travel/en/nutibara-and-el-volador-hills)
-* [Sculptures Plaza - Plaza de las esculturas (Plaza Botero)](http://www.medellin.travel/en/sculptures-plaza)
+* [Sculptures plaza - Plaza de las esculturas (Plaza Botero)](http://www.medellin.travel/en/sculptures-plaza)
 * [Pueblito Paisa](http://www.medellin.travel/en/pueblito-paisa)
-* [River Parks - Parques del Rio](http://www.medellin.travel/en/river-parks)
-* [LLeras Park - Parque lleras](http://www.medellin.travel/es/parque-lleras)
+* [River parks - Parques del Río](http://www.medellin.travel/en/river-parks)
+* [Lleras park - Parque lleras](http://www.medellin.travel/es/parque-lleras)
