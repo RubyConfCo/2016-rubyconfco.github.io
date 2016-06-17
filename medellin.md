@@ -49,6 +49,7 @@ The best coffeeshops and co-working spaces are located around the Poblado area, 
 *   [Atom House](http://atomhouse.com/en/atomhouse-medellin/)
 
 ####   Near the venue
+*   [La Casa Redonda - Co-working](http://medellinliving.com/la-casa-redonda/)
 *   [Cafe Zeppelin](http://medellinliving.com/cafe-zeppelin/)
 *   [Café Vallejo](http://medellinliving.com/cafe-vallejo/)
 *   [Café Revolución](http://caferevolucion.co/)
