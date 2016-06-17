@@ -1,4 +1,8 @@
-## Learn more about medellin
+---
+layout: default
+title: Learn more about medellin
+permalink: /medellin-guide
+---
 
 # MEDELLÍN WILL HOST RUBYCONF COLOMBIA 2016
 
