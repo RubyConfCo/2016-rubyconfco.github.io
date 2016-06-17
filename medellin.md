@@ -44,6 +44,12 @@ The best coffeeshops and co-working spaces are located around the Poblado area, 
 *   [Epicentro](http://www.epicentro.com.co/)
 *   [Atom House](http://atomhouse.com/en/atomhouse-medellin/)
 
+####   Near the venue
+*   [Cafe Zeppelin](http://medellinliving.com/cafe-zeppelin/)
+*   [Café Vallejo](http://medellinliving.com/cafe-vallejo/)
+*   [Café Revolución](http://caferevolucion.co/)
+*   [Tea Market Laureles](https://foursquare.com/v/tea-market-laureles/52b4cfff498e9c9455d5d5d6)
+
 ### The venue
 
 The conference will be held at [El Teatrico, Tv. 39 #Cir2-46, Medellín, Antioquia](https://www.google.com.co/maps/place/El+Teatrico/@6.2428311,-75.5952202,17z/data=!3m1!4b1!4m5!3m4!1s0x8e4429a3c287332b:0x1cd1e5f32b634b7b!8m2!3d6.2428311!4d-75.5930315?hl=en) which is easily accessible by taxi, uber and bus.
