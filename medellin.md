@@ -1,64 +1,85 @@
 ---
 layout: default
-title: Learn more about medellin
+title: Learn more about Medellín
 permalink: /guide_to_medellin
 ---
 
-## Medellín will host RubyConf Colombia
+## Guide to Medellín
 
 <iframe src="https://player.vimeo.com/video/133187229" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/133187229">Video Promocional de la ciudad de Medell&iacute;n</a> from <a href="https://vimeo.com/bourbonms">Bourbon Mindshare Studios</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/133187229">Medellín promo video</a> from <a href="https://vimeo.com/bourbonms">Bourbon Mindshare Studios</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Medellín is the second largest city in [Colombia.](http://wikitravel.org/en/Colombia) It has over 3 million people and is the capital of the department of [Antioquia.](http://wikitravel.org/en/Antioquia) The weather in Medellín is considered to be mild, hence it being known as the 'City of everlasting spring'. Average daily temperatures are 22ºC (71ºF) , range from 15 to 30 degrees Celsius (60º-85ºF).
+Medellín is the second largest city in
+[Colombia.](http://wikitravel.org/en/Colombia) It has almost 4 million people
+and is the capital of the department of
+[Antioquia.](http://wikitravel.org/en/Antioquia) The weather in Medellín is
+considered to be mild, hence it being known as the 'City of everlasting spring'.
+Average daily temperatures are 24ºC (75ºF), but it cna change a lot moving in
+the a range from 15 to 30 degrees Celsius (60º-85ºF).
 
 #### Airports
 
-Medellin has two main airports - Jose Maria Cordova International Airport and Enrique Olaya Herrera Airport.
+Medellin has two main airports - Jose Maria Cordova International Airport and
+Enrique Olaya Herrera Airport.
 
-* The international airport (Jose Maria Cordova) is located about 29km from Medellin in Rionegro.
-* The local airport (Enrique Olaya Herrera) is located within the city although only small regional flights depart/land from there.
+* The international airport (Jose Maria Cordova) is located about 29km from
+Medellin in Rionegro.
+* The local airport (Enrique Olaya Herrera) is located within the city although
+only small regional flights depart/land from there.
 
 ##### Getting from Jose Maria Cordova airport to the city
 
-1\. Taxis - You will see blue and white taxis located outside the doors when you exit the airport. Although all taxis in Medellin use taxi-meters, the ride to/from the airport is fixed at $60.000COP or a bit more depending on which part of the city your are going to. However, just to be on the safe side, make sure to ask the taxi driver the price before leaving the airport.
+1\. Taxis - You will see blue and white taxis located outside the doors when you
+exit the airport. Although all taxis in Medellin use taxi-meters, the ride
+to/from the airport is fixed at $65.000COP or a bit more depending on which part
+of the city your are going to. However, just to be on the safe side, make sure
+to ask the taxi driver the price before leaving the airport.
 
-2\. Colectivos (small buses) - These are shared taxis or mini-buses also located just outside when you exit. Colectivos cost $15.000 COP per person from the airport to El Poblado.
+2\. Colectivos (small buses) - These are shared taxis or mini-buses also located
+just outside when you exit. Colectivos cost $18.000 COP per person from the
+airport to El Poblado.
 
-**Note:** Colectivos will NOT drop you off directly at your destination. Instead they will drop you in front of San Diego Mall. We suggest taking a taxi from this point to your destination.
+**Note:** Colectivos will NOT drop you off directly at your destination. Instead
+they will drop you in front of San Diego Mall. We suggest taking a taxi from
+this point to your destination.
 
 #### Getting around the city
 
-**1\. Taxi -** The fastest and most convenient way is to take a taxi. These taxis are yellow and legally must charge you based on the reading on the taxi meter, so there is no need to negotiate your fare. We recommend that you get a cab using any of the available apps:
+**1\. Taxi -** The fastest and most convenient way is to take a taxi. These
+taxis are yellow and legally must charge you based on the reading on the taxi
+meter, so there is no need to negotiate your fare. We recommend that you get a
+cab using any of the available apps:
 
-*   [Tappsi](https://tappsi.co/)
-*   [Easy Taxi](http://www.easytaxi.com/co/)
-*   [CityTaxi](http://es.citytaxiapp.com/)
-*   Have your hotel call a taxi
+* [Tappsi](https://tappsi.co/)
+* [Easy Taxi](http://www.easytaxi.com/co/)
+* CityTaxi](http://es.citytaxiapp.com/)
+* Have your hotel call a taxi
 
 **2\. [Metro -](https://www.metrodemedellin.gov.co/)** Traveling through the city is easy and quick, with the Metro system. It has [2 Metro lines](https://www.metrodemedellin.gov.co/Portals/4/Images/Viajeconnosotros/mapa-esquematico_grande.jpg) (train) and is connected to 2 Metrocable lines (cable cars).
 
 *   There are integrated [bus routes](https://www.metrodemedellin.gov.co/Portals/4/mapLines/) which will drop you at a Metro station.
 
-**3.** Uber also works in Medellin.
+**3.** [Uber](https://www.uber.com/) works really well in Medellin, we recommend
+this option for visitors from outside of Colombia.
 
 #### Coffee shops and co-working spaces
 
 The following is a list of coffeeshops and co-working spaces located near the venue:
 
-*   [La Casa Redonda - Co-working](http://medellinliving.com/la-casa-redonda/)
-*   [Cafe Zeppelin](http://medellinliving.com/cafe-zeppelin/)
-*   [Café Vallejo](http://medellinliving.com/cafe-vallejo/)
-*   [Café Revolución](http://caferevolucion.co/)
-*   [Tea Market Laureles](https://foursquare.com/v/tea-market-laureles/52b4cfff498e9c9455d5d5d6)
+* [La Casa Redonda Coworking](http://medellinliving.com/la-casa-redonda/)
+* [Cafe Zeppelin](http://medellinliving.com/cafe-zeppelin/)
+* [Café Vallejo](http://medellinliving.com/cafe-vallejo/)
+* [Café Revolución](http://caferevolucion.co/)
+* [Tea Market Laureles](https://foursquare.com/v/tea-market-laureles/52b4cfff498e9c9455d5d5d6)
 
 There are other coffeeshops and co-working spaces are located around the Poblado area, that you might want to check out:
 
-*   [Velvet](http://cafevelvet.co/)
-*   [Pergamino](https://www.pergamino.co/)
-*   [Any Juan Valdez](http://juanvaldezcafe.com/es/store-locator?country=co)
-*   [Laneros](http://coworking.laneros.com/)
-*   [Epicentro](http://www.epicentro.com.co/)
-*   [Atom House](http://atomhouse.com/en/atomhouse-medellin/)
+* [Velvet](http://cafevelvet.co/)
+* [Pergamino](https://www.pergamino.co/)
+* [Any Juan Valdez](http://juanvaldezcafe.com/es/store-locator?country=co)
+* [Laneros Coworking](http://coworking.laneros.com/)
+* [Epicentro Coworking](http://www.epicentro.com.co/)
+* [Atom House Coworking](http://atomhouse.com/en/atomhouse-medellin/)
 
 #### The venue
 
@@ -71,9 +92,9 @@ Check the [hotels page on our conference website](http://www.rubyconf.co/hotels.
 
 #### Places to visit
 
-*   [Botanical Garder - Jardin Botanico](http://www.medellin.travel/en/botanical-garden)
-*   [Nutibara and El Volador hills - Cerro el volador y cerro Nutibara](http://www.medellin.travel/en/nutibara-and-el-volador-hills)
-*   [Sculptures Plaza - Plaza de las esculturas (Plaza Botero)](http://www.medellin.travel/en/sculptures-plaza)
-*   [Pueblito Paisa](http://www.medellin.travel/en/pueblito-paisa)
-*   [River Parks - Parques del Rio](http://www.medellin.travel/en/river-parks)
-*   [LLeras Park - Parque lleras](http://www.medellin.travel/es/parque-lleras)
+* [Botanical Garder - Jardin Botanico](http://www.medellin.travel/en/botanical-garden)
+* [Nutibara and El Volador hills - Cerro el volador y cerro Nutibara](http://www.medellin.travel/en/nutibara-and-el-volador-hills)
+* [Sculptures Plaza - Plaza de las esculturas (Plaza Botero)](http://www.medellin.travel/en/sculptures-plaza)
+* [Pueblito Paisa](http://www.medellin.travel/en/pueblito-paisa)
+* [River Parks - Parques del Rio](http://www.medellin.travel/en/river-parks)
+* [LLeras Park - Parque lleras](http://www.medellin.travel/es/parque-lleras)
