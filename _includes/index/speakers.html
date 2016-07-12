@@ -9,7 +9,13 @@
   <div class="col-sm-4">
     <div class="speaker">
       <div class="photo-wrapper">
+        {% if speaker.link %}
+        <a href="{{speaker.link}}" title="{{ speaker.name}}" >
+        {% endif %}
         <img src="{{ speaker.photo | prepend: "/img/speakers/" }}" alt="{{ speaker.name}}" class="img-responsive" />
+        {% if speaker.link %}
+        </a>
+        {% endif %}
       </div>
 
       <h3 class="name">{{ speaker.name}} </h3>
