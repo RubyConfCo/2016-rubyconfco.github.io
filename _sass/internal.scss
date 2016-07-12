@@ -1,0 +1,33 @@
+.internal {
+  strong {
+    font-weight: bolder;
+  }
+
+  h2 {
+    font-size: 3em;
+    margin: 25px 0;
+    border-bottom: 1px solid #EEE;
+  }
+
+  h3 {
+    font-size: 2em;
+    margin: 25px 0;
+    // border-bottom: 1px solid #EEE;
+  }
+
+  .note {
+    margin: 1em auto 3em;
+    background: rgba($main-r, $main-g, $main-b, 0.6);
+    padding: 1em;
+    border-radius: 0.3em;
+    color: #EEE;
+    font-weight: normal;
+    border: 2px solid $main-color;
+    strong { font-weight: bold; }
+
+    a{
+      color: white;
+      font-weight: bolder;
+    }
+  }
+}
