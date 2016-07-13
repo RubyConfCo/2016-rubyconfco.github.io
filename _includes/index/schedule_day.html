@@ -1,6 +1,6 @@
 {% assign day = include.day %}
 
-<div id="{{ day.uid }}" class="tab-pane active">
+<div id="{{ day.uid }}" class="tab-pane {{ day.default_style }}">
   <div class="tab-content tab-content-schedule">
     <div id="{{ day.uid }}_main" class="tab-pane fade active in">
       <div class="panel-group" id="{{ day.uid }}_main_timeline">
