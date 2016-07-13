@@ -1,0 +1,28 @@
+{% assign day = include.day %}
+
+<div id="{{ day.uid }}" class="tab-pane active">
+  <div class="tab-content tab-content-schedule">
+    <div id="{{ day.uid }}_main" class="tab-pane fade active in">
+      <div class="panel-group" id="{{ day.uid }}_main_timeline">
+
+        {% for talk in day.talks %}
+          <div class="panel schedule-item">
+            <div class="lecture-icon-wrapper">
+              <span class="fa fa-{{ talk.icon }}"></span>
+            </div>
+
+            <div class="schedule-item-toggle">
+              <strong class="time highlight">
+                <span class="icon icon-office-24"></span>
+                {{ talk.time }}
+              </strong>
+
+              <h6 class="title">{{ talk.title }}</h6>
+            </div>
+          </div>
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+</div>

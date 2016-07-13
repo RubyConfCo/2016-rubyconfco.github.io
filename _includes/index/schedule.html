@@ -1,0 +1,29 @@
+<section class="section align-center" id='schedule'>
+  <div class="container">
+    <h2>Schedule</h2>
+    <div class="col-md-10 col-md-offset-1">
+      <div class="row schedule">
+
+        <ul class="nav nav-schedule">
+          {% for day in site.days %}
+            <li class="{{ day.default_style }}">
+              <a href="#{{ day.uid}}" data-toggle="tab">
+                <h5 class="highlight">{{ day.title }}</h5>
+                <p class="text-alt">{{ day.date }}</p>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+
+        <!-- First level content start -->
+        <div class="tab-content">
+          {% for day in site.days %}
+            {% include index/schedule_day.html day=day %}
+          {% endfor %}
+        </div>
+        <!-- First level content end -->
+      </div>
+      <!-- Schedule end -->
+    </div>
+  </div>
+</section>
