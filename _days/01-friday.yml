@@ -1,0 +1,46 @@
+---
+  uid: "friday"
+  default_style: "active"
+  title: "Friday"
+  date: "September 02"
+  talks:
+    -
+      title: "Opening Keynote. Ben Lovell"
+      icon: "group"
+      time: "09:15 - 10:00"
+    -
+      title: "Data fetching with GraphQL and ActionCable. Robert Mosolgo"
+      icon: "group"
+      time: "10:10 - 10:40"
+    -
+      title: "Coffee Break"
+      icon: "coffee"
+      time: "10:40 - 11:25"
+    -
+      title: "Sistemas expertos basados en reglas. Oscar Rendón"
+      icon: "group"
+      time: "11:25 - 11:55"
+    -
+      title: "Invited Speaker. Stella Cotton"
+      icon: "group"
+      time: "12:05 - 12:35"
+    -
+      title: "Lunch"
+      icon: "cutlery"
+      time: "12:35 - 14:05"
+    -
+      title: "Invited Speaker. Jessica Rudder"
+      icon: "group"
+      time: "14:05 - 14:35"
+    -
+      title: "Invited Speaker. Nick Sutterer"
+      icon: "group"
+      time: "14:45 - 15:15"
+    -
+      title: "Coffee Break"
+      icon: "coffee"
+      time: "15:15 - 16:00"
+    -
+      title: "Debugging Diversity. Anjuan Simmons"
+      icon: "group"
+      time: "16:00 - 16:45"
