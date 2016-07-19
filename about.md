@@ -27,6 +27,7 @@ Colombia every year, there are a few individuals that work especially hard to
 produce the conference whom we’d like to recognize here:
 
 * [Angela Guette](https://twitter.com/AngelaGuette)
+* [Catalina de la Cuesta](https://twitter.com/catalinadelacue)
 * [Guillermo Iguarán](https://twitter.com/guilleiguaran)
 * [Julián Vargas](https://twitter.com/app_config)
 * [Laura García](https://twitter.com/lau_garcia)
