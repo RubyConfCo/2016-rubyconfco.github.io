@@ -1,0 +1,7 @@
+- name: PDF Bucket
+  link: "https://www.pdfbucket.io"
+  image: "pdfbucket.png"
+
+- name: Technically Speaking
+  link: "http://www.techspeak.email"
+  image: "techspeak.png"

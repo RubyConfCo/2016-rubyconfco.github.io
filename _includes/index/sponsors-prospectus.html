@@ -24,6 +24,20 @@
   <br/>
   <br/>
 
+  <h5 class="heading-alt">Bronze</h5>
+  <div class="sponsors">
+    {% for sponsor in site.data.sponsor_bronze %}
+      <div class="sponsor inline">
+        <a alt="{{ sponsor.name }}" target="_blank" href="{{sponsor.link}}">
+        <img src="/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <br/>
+  <br/>
+
   <h5 class="heading-alt">Supporter</h5>
   <div class="sponsors">
     {% assign sponsor_supporters = site.data.sponsor_supporters| sort: 'name' %}
