@@ -77,7 +77,6 @@ We expect all conference participants (organizers, volunteers, speakers, instruc
 
 - [Email](mailto:organizers@rubyconf.co)
 - [Twitter account](https://twitter.com/RubyConfCo)
-- [Slack]
 
 ### 10. License and Attribution
 
@@ -166,9 +165,7 @@ Esperamos que todos los participantes de la conferencia (organizadores, voluntar
 
 - [Email](mailto:organizers@rubyconf.co)
 - [Twitter account](https://twitter.com/RubyConfCo)
-- [Slack]
 
-.
 ### 10. Licencia y Atribución
 
 Este Código de Conducta se distribuye bajo una licencia [Creative Commons Attribution-ShareAlike license.](http://creativecommons.org/licenses/by-sa/3.0/)
