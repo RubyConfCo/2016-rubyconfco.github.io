@@ -3,7 +3,7 @@
 
   <h2>Speakers</h2>
 
-  {% assign speakers = site.speakers %}
+  {% assign speakers = site.speakers | sort: 'name' %}
   {% for speaker in speakers %}
 
   <div class="col-sm-4">
