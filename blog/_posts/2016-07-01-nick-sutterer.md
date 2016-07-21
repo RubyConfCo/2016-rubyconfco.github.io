@@ -24,7 +24,7 @@ You can find Nick on [GitHub][gh] and [Twitter][tw]
 
 **Nick Sutterer** es el autor de [Trailblazer](http://trailblazer.to/), un framework que brinda una guía de alto nivel sobre para tener arquitectura más robusta en las aplicaciones web hechas con Rails, Nick también escribió un [libro](https://leanpub.com/u/apotonick) al respecto.
 
-Él contribuye frecuentemente a Rails, desarrolla varias gems (librerías), y es una speaker frecuente en [conferencias](https://www.youtube.com/watch?v=PJZQkqn8g4U) y ha sido invitado a partificar de varios [podcasts](https://devchat.tv/ruby-rogues/206-rr-trailblazer-with-nick-sutterer).
+Él contribuye frecuentemente a Rails, desarrolla varias gems (librerías), y es una speaker frecuente en [conferencias](https://www.youtube.com/watch?v=PJZQkqn8g4U) y ha sido invitado a participar de varios [podcasts](https://devchat.tv/ruby-rogues/206-rr-trailblazer-with-nick-sutterer).
 
 "Donde haya una mezcla de código abierto y debates profundos sobre arquitectura de software, y haya cerveza gratis, Nick Sutterer estará a la vuelta de la esquina. Saludalo, le encanta conocer gente nueva"-. Sitepoint
 
