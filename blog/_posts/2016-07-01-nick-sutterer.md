@@ -6,6 +6,8 @@ current: blog
 created_at: Sat July 01 2016
 ---
 
+![Nick Sutterer](/img/speakers/nick.jpg)
+
 **Nick Sutterer** is the author of [Trailblazer](http://trailblazer.to/), a framework that adds a thin layer on top of Rails to serve as a high-level architectural guidance for web applications, he also wrote a [book](https://leanpub.com/u/apotonick) about it.
 
 He is an active Rails contributor, developer of several gems, frequent [conference](https://www.youtube.com/watch?v=PJZQkqn8g4U) speaker and [podcast](https://devchat.tv/ruby-rogues/206-rr-trailblazer-with-nick-sutterer) guest.
