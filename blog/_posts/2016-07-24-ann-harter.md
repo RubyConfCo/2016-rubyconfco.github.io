@@ -3,7 +3,7 @@ layout: post
 title: Meet Ann Harter
 permalink: blog/ann_harter
 current: blog
-created_at: Mon July 24 2016
+created_at: Sun July 24 2016
 ---
 
 ![Ann Harter](/img/speakers/ann.jpg)
