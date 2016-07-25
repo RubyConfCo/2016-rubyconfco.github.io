@@ -3,7 +3,7 @@ layout: post
 title: Second batch of tickets
 permalink: blog/second_tickets_batch
 current: blog
-created_at: Mon July 25 2016
+created_at: Mon July 28 2016
 ---
 
 ![Tickets](/img/blog/second-batch-of-tickets.gif)
