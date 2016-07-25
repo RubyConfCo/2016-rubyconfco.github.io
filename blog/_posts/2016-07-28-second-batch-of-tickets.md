@@ -12,7 +12,7 @@ The first batch of tickets sold out! We are excited to see how fast tickets are 
 
 We have an awesome [line-up](http://www.rubyconf.co/#speakers) and a great [venue](http://www.rubyconf.co/#venue), come to [Medellín](http://www.rubyconf.co/guide_to_medellin.html) and have a great time with us!
 
-### Get your ticket [here][TITO].
+#### Get your ticket [here][TITO].
 
 * * *
 
@@ -22,6 +22,6 @@ El primer lote de las entradas se agotó! Estamos muy contentos de ver cómo las
 
 Tenemos unos [speakers](http://www.rubyconf.co/#speakers) increíbles y una excelente [lugar](http://www.rubyconf.co/#venue) para el evento, ven a [Medellín](http://www.rubyconf.co/guide_to_medellin.html) y ten una experiencia inolvidable!
 
-### Compra tu entrada [acá][TITO].
+#### Compra tu entrada [acá][TITO].
 
 [tito]: https://ti.to/colombia-dev/rubyconf-colombia-2016
