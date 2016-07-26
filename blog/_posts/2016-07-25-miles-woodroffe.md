@@ -9,6 +9,7 @@ created_at: Mon July 25 2016
 ![Miles Woodroffe](/img/speakers/miles.jpg)
 
 Miles is a Brit now based in Japan with 15+ years experience building startups, teams and technology. For the last 6 years working at Cookpad he has been focused on one simple mission: to help make everyday cooking fun, and in the last year specifically, taking this mission to a global audience with a distributed team of engineers spanning 7 countries.
+
 Since starting the [tokyorails meetup](https://twitter.com/tokyorails) group in 2010, he particularly enjoys hanging out with other Ruby developers, entrepreneurs and anyone interested in tech to help grow the community in Japan and worldwide.
 
 You can follow Miles on [GitHub][gh] and [Twitter][tw].
