@@ -3,7 +3,7 @@ layout: post
 title: Meet Robert Mosolgo
 permalink: blog/robert_mosolgo
 current: blog
-created_at: Tue July 29 2016
+created_at: Thu July 29 2016
 ---
 
 ![Robert Mosolgo](/img/speakers/robert.jpg)
