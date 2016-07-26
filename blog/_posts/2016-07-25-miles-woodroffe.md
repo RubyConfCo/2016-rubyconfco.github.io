@@ -18,9 +18,9 @@ You can follow Miles on [GitHub][gh] and [Twitter][tw].
 
 # Te presentamos a Miles Woodroffe
 
-Miles es un británico que vive actualmente en Japón, con más de 15 años de experiencia construyendo startups, equipos y tecnología. Durante los últimos 6 años trabajando en Cookpad que se ha centrado en una simple misión: ayudar a hacer la cocina de todos los días divertida, y en el último año en concreto, llevar esta misión a una audiencia global con un equipo distribuido de ingenieros que abarca 7 países.
+Miles es un británico que vive actualmente en Japón, con más de 15 años de experiencia construyendo startups, equipos y tecnología. Durante los últimos 6 años ha trabajado en Cookpad y se ha centrado en una simple misión: ayudar a hacer la cocina de todos los días divertida, y en el último año en concreto, llevar esta misión a una audiencia global con un equipo distribuido de ingenieros que abarca 7 países.
 
-Desde que empezó el grupo de [tokyorails meetup](https://twitter.com/tokyorails) en 2010, particularmente disfruta pasando el rato con otros Ruby developers, empresarios y cualquier persona interesada en tecnología para ayudar a crecer la comunidad en Japón y en todo el mundo.
+Desde que empezó el grupo de [tokyorails meetup](https://twitter.com/tokyorails) en 2010, disfruta particularmente pasar el rato con otros Ruby developers, empresarios y cualquier persona interesada en tecnología para ayudar a crecer la comunidad en Japón y en todo el mundo.
 
 Puedes seguir a Miles en [GitHub][GH] y [Twitter][TW].
 
