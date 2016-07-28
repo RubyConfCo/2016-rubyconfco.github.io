@@ -17,7 +17,7 @@ Ticket will be released in batches, these are the dates with a calendar event so
 
 * Early bird: **Sold out**
 * First batch: Monday June 6th at 7:00am COT <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=c2hhdTBtOXMzdDRvanVpZzZlbGE4MDBrMG8gc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-* Second batch: Friday July 30th at 7:00am COT <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dG50cmVtZ3FlMnBxajRnMGcxc2phMTJndnMgc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+* Second batch: Friday July 29th at 7:00am COT <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dG50cmVtZ3FlMnBxajRnMGcxc2phMTJndnMgc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 * Last batch: Monday August 25th at 7:00am COT, very few tickets at a higher price <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=YmFvbjRzb2EzamtzaTA4am43ZzlmOXM0cDAgc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 We strongly encourage you to buy them **as soon as possible** to guarantee your
@@ -43,7 +43,7 @@ para que agregues a tu calendario y no te quedes sin tu entrada:
 
 * Early bird: **Agotado**
 * Primer lote: lunes 6 de junio a las 7:00am hora colombiana <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=c2hhdTBtOXMzdDRvanVpZzZlbGE4MDBrMG8gc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-* Segundo lote: viernes 30 de julio a las 7:00am hora colombiana <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dG50cmVtZ3FlMnBxajRnMGcxc2phMTJndnMgc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+* Segundo lote: viernes 29 de julio a las 7:00am hora colombiana <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dG50cmVtZ3FlMnBxajRnMGcxc2phMTJndnMgc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 * Último lote: lunes 25 de agosto a las 7:00am hora colombiana, muy pocas
   entradas a un precio más alto <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=YmFvbjRzb2EzamtzaTA4am43ZzlmOXM0cDAgc2ViYXNvZ2FAbQ&amp;tmsrc=sebasoga%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
