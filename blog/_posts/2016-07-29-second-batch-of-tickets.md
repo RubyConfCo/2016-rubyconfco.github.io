@@ -20,7 +20,7 @@ We have an awesome [line-up](http://www.rubyconf.co/#speakers) and a great [venu
 
 El primer lote de las entradas se agotó! Estamos muy contentos de ver cómo las entradas se están vendiendo rápido. La buena noticia es que tenemos un segundo lote de entradas que sale a la venta hoy, si quieres asegurar tu lugar asegura tu entrada **ahora mismo**.
 
-Tenemos unos [speakers](http://www.rubyconf.co/#speakers) increíbles y una excelente [lugar](http://www.rubyconf.co/#venue) para el evento, ven a [Medellín](http://www.rubyconf.co/guide_to_medellin.html) y ten una experiencia inolvidable!
+Tenemos unos [speakers](http://www.rubyconf.co/#speakers) increíbles y un excelente [lugar](http://www.rubyconf.co/#venue) para el evento, ven a [Medellín](http://www.rubyconf.co/guide_to_medellin.html) y ten una experiencia inolvidable!
 
 #### Compra tu entrada [acá][TITO].
 
