@@ -18,9 +18,11 @@ The winner will be selected choose based only on the size of the sent file.
 
 In the case of a tie, the winner is selected as the file has been sent first.
 
-The winner must do a Hangout with the organizers of the conference explaining how to fix the problem, and this hangout will be published in Ruby meetups and the conference channel.
+The winner must do a Hangout with the organizers of the conference explaining how the solution was implemented, and this hangout will be posted in Ruby meetups and the conference channel.
 
-1st place will get her/his entry, 2nd and 3rd will have exclusive discounts, you can not miss this opportunity.
+1st place will get her/his entry for free
+For the 2nd place, up to 5 participants will receive a 50% discount
+and for the 3rd place up to 13 parcicipants will receive a 25% discount, you can not miss this opportunity.
 
 
 * * *
@@ -37,4 +39,6 @@ En caso de empate, se selecciona como ganador al archivo que haya sido enviado p
 
 El ganador deberá hacer un hangout con los organizadores de la conferencia explicando como soluciono el problema y este hangout sera publicado en los meetups de Ruby y en el canal de la conferencia.
 
-El 1ro puesto optendrá su entrada , 2do y 3ro Tendrán descuentos exclusivos, no puedes dejar pasar esta oportunidad.
+El 1ro puesto optendrá su entrada
+Para el 2do puesto, un máximo de 5 personas recibiran un descuento del 50%
+y para el 3ro puesto, un máximo de 13 participantes recibiran un descuento del 25%, no puedes dejar pasar esta oportunidad.
