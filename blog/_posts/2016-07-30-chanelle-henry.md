@@ -14,9 +14,7 @@ She has been designing webpages, consulting and spreading the gospel of UX for m
 
 A technohippie that truly believes design can change the world, and that it is not only about our interaction with technology but how we relate to each other. As she says, "humbly a genius"!
 
-http://www.chanellehenry.com/
-https://twitter.com/chanelle777
-
+You can follow Chanelle on [Twitter](https://twitter.com/chanelle777) and check her [webpage](http://www.chanellehenry.com/)
 
 
 * * *
@@ -29,5 +27,4 @@ Ella ha estado diseñando webpages, haciendo consultoría y compartiendo el evan
 
 Una tecnohippie que cree que el diseño realmente puede cambiar al mundo, y que no solo se trata de como nos relacionamos con la tecnología si no con otras personas. Como ella misma dice, "humildemente una genio"!
 
-http://www.chanellehenry.com/
-https://twitter.com/chanelle777
+Puedes seguir a Chanelle en [Twitter](https://twitter.com/chanelle777) y visitar su [página](http://www.chanellehenry.com/)
