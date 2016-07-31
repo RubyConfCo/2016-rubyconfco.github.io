@@ -26,7 +26,7 @@ You can not miss this opportunity!
 
 * * *
 
-# Gánate una entrada a RubyConf!
+# ¡Gánate una entrada a RubyConf!
 
 El reto consiste en hacer un Quine en Ruby, es decir un programa que no reciba ningún parámetro de entrada y cuya salida es el codigo fuente del programa [ https://en.wikipedia.org/wiki/Quine_(computing) ], ademas, el código debe estar obfuscado, es decir, escrito de manera que se ejecute correctamente pero que no sea legible por un humano. El código fuente debe ser originar e inedito y la obfuscacion se debe hacer a mano.
 
@@ -42,4 +42,4 @@ El ganador deberá hacer un hangout con los organizadores de la conferencia expl
 * El 2do puesto, un máximo de 5 personas recibiran un descuento del 50%.
 * El 3ro puesto, un máximo de 13 participantes recibiran un descuento del 25%.
 
-No puedes dejar pasar esta oportunidad!
+¡No puedes dejar pasar esta oportunidad!
