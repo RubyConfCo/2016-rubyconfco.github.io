@@ -3,7 +3,7 @@ layout: post
 title: Meet Camille Fournier
 permalink: blog/camille_fournier
 current: blog
-created_at: Mon August 1 2016
+created_at: Sun July 31 2016
 ---
 
 ![Camille Fournier](/img/speakers/camille.jpg)
