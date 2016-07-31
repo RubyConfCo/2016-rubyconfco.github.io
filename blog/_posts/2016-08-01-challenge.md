@@ -8,9 +8,9 @@ created_at: Mon August 1 2016
 
 ![Challenge Accepted](/img/blog/challenge-accepted.jpg)
 
-The challenge is to make a Quine in Ruby, a program that does not receive any input parameters and the output is the program source code[https://en.wikipedia.org/wiki/Quine_(computing)] further, the code must be obfuscated, it means, it should be written, so that to it succeed when it is executed but it is not readable by a human. The source code must be original and unprecedented, and obfuscation must be done by hand.
+The challenge is to make a Quine in Ruby, a program that does not receive any input parameters and the output is the program (source code)[https://en.wikipedia.org/wiki/Quine_(computing)] further, the code must be obfuscated, it means, it should be written, so that to it succeed when it is executed but it is not readable by a human. The source code must be original and unprecedented, and obfuscation must be done by hand.
 
-You have until August 15 at 11:59 PM to send us your response, it must be sent as a private gist to our e-mail organizers@rubyconf.co.
+You have until August 15 at 11:59 PM to send us your response, it must be sent as a private gist to our e-mail <a mailto="organizers@rubyconf.co">organizers@rubyconf.co</a>.
 
 The winner will be selected choose based only on the size of the sent file.
 
@@ -28,9 +28,9 @@ You can not miss this opportunity!
 
 # ¡Gánate una entrada a RubyConf!
 
-El reto consiste en hacer un Quine en Ruby, es decir un programa que no reciba ningún parámetro de entrada y cuya salida es el codigo fuente del programa [ https://en.wikipedia.org/wiki/Quine_(computing) ], ademas, el código debe estar obfuscado, es decir, escrito de manera que se ejecute correctamente pero que no sea legible por un humano. El código fuente debe ser originar e inedito y la obfuscacion se debe hacer a mano.
+El reto consiste en hacer un Quine en Ruby, es decir un programa que no reciba ningún parámetro de entrada y cuya salida es el (codigo fuente del programa)[ https://en.wikipedia.org/wiki/Quine_(computing) ], ademas, el código debe estar obfuscado, es decir, escrito de manera que se ejecute correctamente pero que no sea legible por un humano. El código fuente debe ser originar e inedito y la obfuscacion se debe hacer a mano.
 
-Tienes hasta el 15 de Agosto a las 11:59PM para enviar tu respuesta, esta deberá ser enviada como un gist privado al nuestra dirección de correo organizers@rubyconf.co.
+Tienes hasta el 15 de Agosto a las 11:59PM para enviar tu respuesta, esta deberá ser enviada como un gist privado al nuestra dirección de correo <a mailto="organizers@rubyconf.co">organizers@rubyconf.co</a>.
 
 El ganador sera seleccionado únicamente basado en el tamaño del archivo que envíe.
 
