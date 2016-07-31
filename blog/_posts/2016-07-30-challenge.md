@@ -3,7 +3,7 @@ layout: post
 title: Win a ticket for RubyConf!
 permalink: blog/rubyconf_challenge
 current: blog
-created_at: Wed July 30 2016
+created_at: Mon August 1 2016
 ---
 
 ![Challenge Accepted](/img/blog/challenge-accepted.jpg)
