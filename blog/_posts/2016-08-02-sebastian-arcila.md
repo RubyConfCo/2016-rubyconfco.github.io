@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Meet Sebastian Arcila
+title: Meet Sebastián Arcila
 permalink: blog/sebastian_arcila
 current: blog
 created_at: Thu August 2 2016
 ---
 
-![Sebastian Arcila](/img/speakers/sebastian.jpg)
+![Sebastián Arcila](/img/speakers/sebastian.jpg)
 
 Sebastián is a software linguist, as mathematician and programmer he loves to solve problems requiring strong use of algorithms and data structures.
 
@@ -18,6 +18,8 @@ You can follow him on [GitHub][GH] and [Twitter][TW].
 
 
 * * *
+
+# Te presentamos a Sebastián Arcila
 
 Sebastián es un lingüista de software, como matemático y programador le gusta resolver problemas que requieren una fuerte uso de algoritmos y estructuras de datos.
 
