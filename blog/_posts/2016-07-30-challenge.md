@@ -1,14 +1,12 @@
 ---
 layout: post
-title: A chance to win a ticket for RubyConf!
+title: Win a ticket for RubyConf!
 permalink: blog/rubyconf_challenge
 current: blog
 created_at: Wed July 30 2016
 ---
 
 ![Challenge Accepted](/img/blog/challenge-accepted.jpg)
-
-# Win a ticket for RubyConf!
 
 The challenge is to make a Quine in Ruby, a program that does not receive any input parameters and the output is the program source code[https://en.wikipedia.org/wiki/Quine_(computing)] further, the code must be obfuscated, it means, it should be written, so that to it succeed when it is executed but it is not readable by a human. The source code must be original and unprecedented, and obfuscation must be done by hand.
 
@@ -20,10 +18,11 @@ In the case of a tie, the winner is selected as the file has been sent first.
 
 The winner must do a Hangout with the organizers of the conference explaining how the solution was implemented, and this hangout will be posted in Ruby meetups and the conference channel.
 
-1st place will get her/his entry for free
-For the 2nd place, up to 5 participants will receive a 50% discount
-and for the 3rd place up to 13 parcicipants will receive a 25% discount, you can not miss this opportunity.
+* The 1st place will get a free ticket.
+* The 2nd place, up to 5 participants, will receive a 50% discount.
+* The 3rd place, up to 13 parcicipants will, receive a 25% discount.
 
+You can not miss this opportunity!
 
 * * *
 
@@ -39,6 +38,8 @@ En caso de empate, se selecciona como ganador al archivo que haya sido enviado p
 
 El ganador deberá hacer un hangout con los organizadores de la conferencia explicando como soluciono el problema y este hangout sera publicado en los meetups de Ruby y en el canal de la conferencia.
 
-El 1ro puesto optendrá su entrada
-Para el 2do puesto, un máximo de 5 personas recibiran un descuento del 50%
-y para el 3ro puesto, un máximo de 13 participantes recibiran un descuento del 25%, no puedes dejar pasar esta oportunidad.
+* El 1ro puesto optendrá su entrada.
+* El 2do puesto, un máximo de 5 personas recibiran un descuento del 50%.
+* El 3ro puesto, un máximo de 13 participantes recibiran un descuento del 25%.
+
+No puedes dejar pasar esta oportunidad!
