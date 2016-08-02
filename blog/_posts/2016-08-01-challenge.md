@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Win a ticket for RubyConf!
+title: Win a ticket to RubyConf!
 permalink: blog/rubyconf_challenge
 current: blog
 created_at: Mon August 1 2016
