@@ -20,7 +20,7 @@ You can follow Jessica on [Twitter][TW] and [GitHub][GH]
 
 Jessica decidió ser programadora cuando solo tenia 8 años, ella invirtió horas en el resplandor verde del monitor aprendiendo BASIC.
 Algún tiempo después ella se fue por el camino del Marketing Digital siendo una respetada líder con acerca de 8 años de experiencia en esta área.
-Actualmente trabaja como desarrolladora para [Flatiron School][FS] - donde es feliz dedicando sus días a escribir código que ayuda a otras personas a aprender código también
+Actualmente trabaja como desarrolladora para [Flatiron School][FS] - donde es feliz dedicando sus días a escribir código que ayuda a otras personas a aprendera escribir código.
 
 Puedes seguir a Jessica en [Twitter][TW] y [GitHub][GH]
 
