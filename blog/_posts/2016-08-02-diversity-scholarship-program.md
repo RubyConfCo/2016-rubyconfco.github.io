@@ -22,10 +22,6 @@ Para aplicar solo es necesario llenar el siguiente formulario https://rubyconfco
 
 Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto, si eres empresa o persona individual y quieres aportar con recursos financieros para más becas puedes escribirnos a **organizers@rubyconf.co**.
 
-### Gana un ticket para RubyConf!
-
-También tenemos un reto para ti,  participarás por un ticket gratis, descuentos del 50% o el 25% de descuento. Más detalles [aquí](http://www.rubyconf.co/blog/rubyconf_challenge).
-
 Nos vemos en Medellín!
 
 
@@ -48,12 +44,4 @@ To apply you just need to fill out the form below https://rubyconfco.typeform.co
 
 The more financial support we receive, we can give scholarships to more people. Therefore, if you are a company or person and want to provide financial resources for more scholarships you can write to **organizers@rubyconf.co**.
 
-### Win a ticket to RubyConf!
-
-We also have a challenge, you will participate for a free ticket, 50% discount or 25% discount. More Details (here)(http://www.rubyconf.co/blog/rubyconf_challenge). 
-
 See you in Medellin!
-
-
-
-
