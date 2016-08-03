@@ -20,7 +20,7 @@ Para aplicar solo es necesario llenar [este formulario](https://rubyconfco.typef
 
 #### Interesado en patrocinar más personas?
 
-Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto, si eres empresa o persona individual y quieres aportar con recursos financieros para más becas puedes escribirnos a <a mailto="organizers@rubyconf.co">organizers@rubyconf.</a>.
+Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto, si eres empresa o persona individual y quieres aportar con recursos financieros para más becas puedes escribirnos a <a mailto="organizers@rubyconf.co">organizers@rubyconf.co</a>.
 
 Nos vemos en Medellín!
 
@@ -42,6 +42,6 @@ To apply you just need to fill out [this form](https://rubyconfco.typeform.com/t
 
 #### Interested in sponsoring more people?
 
-The more financial support we receive, we can give scholarships to more people. Therefore, if you are a company or person and want to provide financial resources for more scholarships you can write to <a mailto="organizers@rubyconf.co">organizers@rubyconf.</a>.
+The more financial support we receive, we can give scholarships to more people. Therefore, if you are a company or person and want to provide financial resources for more scholarships you can write to <a mailto="organizers@rubyconf.co">organizers@rubyconf.co</a>.
 
 See you in Medellin!
