@@ -3,10 +3,10 @@ layout: post
 title: Meet Rafael França
 permalink: blog/rafael_franca
 current: blog
-created_at: Tues August 2 2016
+created_at: Tue August 2 2016
 ---
 
-![Rafael França](/img/speakers/rafael.jpg)
+![Rafael França](/img/speakers/rafael.png)
 
 Rafael França is a [Rails Core Team Member](http://rubyonrails.org/core) since October 2012 and currently is [#1 Rails contributor](http://contributors.rubyonrails.org/contributors/). He is also an [Elixir contributor](https://github.com/elixir-lang/elixir/graphs/contributors) and one of Simple Form maintainers. He works as a developer for [Shopify](https://www.shopify.com). 
 
