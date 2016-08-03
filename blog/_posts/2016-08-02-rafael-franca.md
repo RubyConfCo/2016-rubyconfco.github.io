@@ -8,12 +8,11 @@ created_at: Tue August 2 2016
 
 ![Rafael França](/img/speakers/rafael.png)
 
-Rafael França is a [Rails Core Team Member](http://rubyonrails.org/core) since October 2012 and currently is [#1 Rails contributor](http://contributors.rubyonrails.org/contributors/). Also, he has contributed to [Elixir](https://github.com/elixir-lang/elixir/graphs/contributors) and Simple Form. 
-He works as a developer for [Shopify](https://www.shopify.com). 
+Rafael França is a [Rails Core Team Member](http://rubyonrails.org/core) since October 2012 and currently is [#1 Rails contributor](http://contributors.rubyonrails.org/contributors/). Also, he has contributed to [Elixir](https://github.com/elixir-lang/elixir/graphs/contributors) and Simple Form. He works as a developer for [Shopify](https://www.shopify.com). 
 
 He won a [Ruby Hero](http://rubyheroes.com/heroes/2014) award on April 2014.
 
-He has spoken at other great conferences such as [RubyConfBR](http://www.rubyconf.com.br), [RailsConf](http://railsconf.com)[Tropical Ruby](http://tropicalrb.com/en/) and [RuPy Brasil](http://rupy.com.br).
+He has spoken at other great conferences such as [RubyConfBR](http://www.rubyconf.com.br), [RailsConf](http://railsconf.com), [Tropical Ruby](http://tropicalrb.com/en/) and [RuPy Brasil](http://rupy.com.br).
 
 He will be flying in from São Paulo, Brazil and he is really excited to be speaking at RubyConf Colombia next September.
 
