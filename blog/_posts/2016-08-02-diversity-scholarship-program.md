@@ -16,11 +16,11 @@ La beca está dirigida a personas pertenecientes a grupos poco representados en 
 
 #### Cómo aplicar ?
 
-Para aplicar solo es necesario llenar el siguiente formulario https://rubyconfco.typeform.com/to/vmSkJ1. La convocatoria se cierra el día **Miércoles 17 de Agosto del 2016** y daremos los resultados el día Sábado 20 de Agosto del 2016, no lo dejes pasar!
+Para aplicar solo es necesario llenar [este formulario](https://rubyconfco.typeform.com/to/vmSkJ1). La convocatoria se cierra el día **Miércoles 17 de Agosto del 2016** y daremos los resultados el día Sábado 20 de Agosto del 2016, no lo dejes pasar!
 
 #### Interesado en patrocinar más personas?
 
-Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto, si eres empresa o persona individual y quieres aportar con recursos financieros para más becas puedes escribirnos a **organizers@rubyconf.co**.
+Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto, si eres empresa o persona individual y quieres aportar con recursos financieros para más becas puedes escribirnos a <a mailto="organizers@rubyconf.co">organizers@rubyconf.</a>.
 
 Nos vemos en Medellín!
 
@@ -38,10 +38,10 @@ The scholarship is aimed at people from groups underrepresented in technology su
 
 #### How to apply?
 
-To apply you just need to fill out the form below https://rubyconfco.typeform.com/to/vmSkJ1. The call closes on **Wednesday, August 17, 2016**, and gives the results on Saturday, August 20, 2016, day, do not miss it!
+To apply you just need to fill out [this form](https://rubyconfco.typeform.com/to/vmSkJ1). The call closes on **Wednesday, August 17, 2016**, and gives the results on Saturday, August 20, 2016, day, do not miss it!
 
 #### Interested in sponsoring more people?
 
-The more financial support we receive, we can give scholarships to more people. Therefore, if you are a company or person and want to provide financial resources for more scholarships you can write to **organizers@rubyconf.co**.
+The more financial support we receive, we can give scholarships to more people. Therefore, if you are a company or person and want to provide financial resources for more scholarships you can write to <a mailto="organizers@rubyconf.co">organizers@rubyconf.</a>.
 
 See you in Medellin!
