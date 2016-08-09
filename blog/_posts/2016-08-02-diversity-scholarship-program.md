@@ -14,11 +14,11 @@ Nos alegra anunciar nuestro programa de **Becas de Diversidad**. Uno de nuestros
 
 La beca está dirigida a personas pertenecientes a grupos poco representados en tecnología como por ejemplo: LGBTQ, mujeres, afro-descendientes, indígenas y cualquier otro grupo social que usted considere. Los ganadores son seleccionados por el grupo de organizadores de RubyConf Colombia.
 
-#### Cómo aplicar ?
+#### ¿Cómo aplicar?
 
 Para aplicar solo es necesario llenar [este formulario](https://rubyconfco.typeform.com/to/vmSkJ1). La convocatoria se cierra el día **Miércoles 17 de Agosto del 2016** y daremos los resultados el día Sábado 20 de Agosto del 2016, no lo dejes pasar!
 
-#### Interesado en patrocinar más personas?
+#### ¿Interesado en patrocinar más personas?
 
 Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto si quieres apoyar esta inicitiva para que más personas puedan asistir becadas a la conferencia puedes [comprar entradas para becarios acá](https://ti.to/colombia-dev/rubyconf-colombia-2016/with/9giva-ioe2q).
 
