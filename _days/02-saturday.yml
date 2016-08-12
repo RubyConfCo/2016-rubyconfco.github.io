@@ -5,7 +5,7 @@
   date: "September 03"
   talks:
     -
-      title: "Opening Keynote. Chanelle Henry"
+      title: "The Rubyists Guide to Existentialism. Ann Harter"
       icon: "group"
       time: "09:15 - 10:00"
     -
@@ -21,7 +21,7 @@
       icon: "group"
       time: "11:25 - 11:55"
     -
-      title: "The Rubyists Guide to Existentialism. Ann Harter"
+      title: "Functional Ruby and the the (big) dependency diet. David Peláez"
       icon: "group"
       time: "12:05 - 12:35"
     -
