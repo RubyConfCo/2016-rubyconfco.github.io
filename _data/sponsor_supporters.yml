@@ -7,5 +7,9 @@
   image: "codeschool.png"
 
 - name: App Signal
-  link: "https://www.codeschool.com/"
+  link: "https://www.appsignal.com/"
   image: "appsignal.png"
+
+- name: Digital Ocean
+  link: "https://www.digitalocean.com/"
+  image: "digitalocean.png"
