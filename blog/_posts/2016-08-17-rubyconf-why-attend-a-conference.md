@@ -24,6 +24,6 @@ Muchas veces la gente piensa que asistir a una conferencia es una pérdida de ti
 
   No es lo mismo estar sentado 8 horas diarias frente a una computadora leyendo un blog post o el código fuente de un repositorio en Github a pasar ese mismo tiempo en otro espacio, hablando con el creador del blog post o del repositorio y hacerle algunas preguntas al respecto, solucionar alguna duda, hablar de cómo llegó a esa solución, y porque no, darle las gracias por su trabajo, muy seguramente estará agradecido.
 
-#### ¿Por qué éste blog?
+#### ¿Por qué éste post?
 
   RubyConf es una conferencia organizada por la comunidad para la comunidad, es un evento sin ánimo de lucro que busca que la comunidad de desarrollo en general, no solo la de Ruby, en Colombia crezca y se fortalezca, se busca incentivar este tipo de eventos en el país y demostrarle al mundo que Colombia tiene un nivel técnico avanzado y está en capacidad de tener eventos de calidad y de índole internacional. Si estas primeras iniciativas de lograrlo fracasan, muy probablemente las demás comunidades de desarrollo del país no se verán tan animadas a realizar este tipo de eventos. Ayúdanos a que esto sea posible.
