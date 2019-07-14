@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RubyConf Colombia</title>
+    <description>This will be the second edition of RubyConf Colombia and the conference will have even better content, will be bigger in size, will have more talks and will be held at a brand new venue. You don’t want to miss it!
+</description>
+    <link>http://www.rubyconf.co/</link>
+    <atom:link href="http://www.rubyconf.co/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Jul 2019 19:06:41 -0500</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2019 19:06:41 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>¿Por qué asistir a una conferencia?</title>
+        <description>&lt;p&gt;Muchas veces la gente piensa que asistir a una conferencia es una pérdida de tiempo, lo ven como un costo extra y no como una inversión, pues piensan que no se va a obtener nada bueno o extra al asistir, sin embargo en este blog post te mostraremos que pasa todo lo contrario, si se asiste a una que sea del interés personal, los beneficios son muchos; por ejemplo expandir las redes de contactos, darte a conocer con la gente del medio, expandir tus conocimientos, vivir experiencias irrepetibles, viajar y conocer lugares nuevos, y quien sabe, hasta depronto encontrar a la persona correcta con quien crear un empredimiento. A continuacion exploraremos algunos de estos beneficios.&lt;/p&gt;
+
+&lt;h4 id=&quot;networking&quot;&gt;Networking&lt;/h4&gt;
+
+&lt;p&gt;Los contactos que hagas durante la conferencia con personas del medio te ayudarán a encontrar una buena colocación laboral el día de mañana cuando estés buscando trabajo, asi como también te ayudarán a formar reputación en el medio. A las conferencias no solo asisten desarrolladores, sino que también acuden expertos invitados que pueden ser un buen contacto para el futuro, reclutadores, patrocinadores que buscan talento humano; te buscan a ti, porque eres valioso y estar en ese tipo de eventos demuestra que estás interesado en aprender y ser mejor, por lo que es la manera más fácil de que te puedan contactar y tener una primera buena impresión.&lt;/p&gt;
+
+&lt;p&gt;Trata de acercarte a ellos y de hacer alguna pregunta interesante, ya sea técnica o no, habla con los demás asistentes de la conferencia y dialoga sobre algún tema relacionado, propón soluciones, problemáticas y puntos de vista, siempre respetando la opinión de los demás, recuerda que estás en un evento bajo el &lt;a href=&quot;http://www.rubyconf.co/code-of-conduct.html&quot;&gt;Código de Conducta&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Importante:&lt;/strong&gt; siempre debes tratar a las demás personas como iguales, que tienen tus mismos conocimientos o más avanzados, por lo que no debes hacer ningun comentario discriminativo, peyorativo o acosador.&lt;/p&gt;
+
+&lt;h4 id=&quot;ampliar-tus-conocimientos&quot;&gt;Ampliar tus conocimientos&lt;/h4&gt;
+
+&lt;p&gt;Las conferencias te abren el camino a explorar temas que antes no conocías y que te generaron interés, reafirmar conocimientos o profundizar en estos. &lt;strong&gt;No tengas miedo a preguntar&lt;/strong&gt;, no salgas con dudas de la conferencia, en la mayoría de los casos, si durante la charla no hay un espacio para preguntas, puedes buscar al speaker luego de su charla y hacerle algunas preguntas, ellos estarán dispuestos para responderlas, recuerda que ninguna pregunta es “tonta”, “obvia” o “mala”, la conferencia está bajo el &lt;a href=&quot;http://www.rubyconf.co/code-of-conduct.html&quot;&gt;Código de Conducta&lt;/a&gt; y es una conferencia inclusiva, que espera público con todos los niveles de conocimiento que van desde el que apenas está aprendiendo al que tiene años de experiencia.&lt;/p&gt;
+
+&lt;h4 id=&quot;cambiar-de-contexto&quot;&gt;Cambiar de contexto&lt;/h4&gt;
+
+&lt;p&gt;No es lo mismo estar sentado 8 horas diarias frente a una computadora leyendo un blog post o el código fuente de un repositorio en Github a pasar ese mismo tiempo en otro espacio, hablando con el creador del blog post o del repositorio y hacerle algunas preguntas al respecto, solucionar alguna duda, hablar de cómo llegó a esa solución, y porque no, darle las gracias por su trabajo, muy seguramente estará agradecido.&lt;/p&gt;
+
+&lt;h4 id=&quot;por-qué-éste-post&quot;&gt;¿Por qué éste post?&lt;/h4&gt;
+
+&lt;p&gt;RubyConf es una conferencia organizada por la comunidad para la comunidad, es un evento sin ánimo de lucro que busca que la comunidad de desarrollo en general, no solo la de Ruby, en Colombia crezca y se fortalezca, se busca incentivar este tipo de eventos en el país y demostrarle al mundo que Colombia tiene un nivel técnico avanzado y está en capacidad de tener eventos de calidad y de índole internacional. Si estas primeras iniciativas de lograrlo fracasan, muy probablemente las demás comunidades de desarrollo del país no se verán tan animadas a realizar este tipo de eventos. Ayúdanos a que esto sea posible.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/why_to_attend_a_conference</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/why_to_attend_a_conference</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet David Peláez Tamayo</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/david.jpg&quot; alt=&quot;David Pelaez&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;David Peláez Tamayo is co-founder at &lt;a href=&quot;https://vlip.co/&quot;&gt;Vlipco&lt;/a&gt;, a starup from Bogotá Colombia which works in simplify the money transfer and boost local bussines through the Internet. He’s a professional Designer and empirical developer, currently heads the company with his product &lt;a href=&quot;https://vlip.co/&quot;&gt;Vlip&lt;/a&gt;, Vlip is an app which handles spots available at restaurants in Bogotá&lt;/p&gt;
+
+&lt;p&gt;You can follow David on &lt;a href=&quot;https://twitter.com/davidpelaez&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/davidpelaez&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-david-peláez&quot;&gt;Te presentamos a David Peláez&lt;/h1&gt;
+
+&lt;p&gt;David Peláez Tamayo es co-founder de &lt;a href=&quot;https://vlip.co/&quot;&gt;Vlipco&lt;/a&gt;, un startup en Bogotá, Colombia que trabajar por simplificar el movimiento de dinero y potenciar los negocios de la región a través de Internet. Diseñador de profesión y desarrollador autotidacta, actualmente dirige la compañía con su producto Vlip, una aplicación para pago desde la mesa en restaurantes disponible inicialmente en Bogotá.&lt;/p&gt;
+
+&lt;p&gt;Puedes seguir a David en &lt;a href=&quot;https://twitter.com/davidpelaez&quot;&gt;Twitter&lt;/a&gt; y &lt;a href=&quot;https://github.com/davidpelaez&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/david_pelaez</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/david_pelaez</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet Jessica Rudder</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/jessica.jpg&quot; alt=&quot;Jessica Rudder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jessica wanted to be a programmer when she was only 8, she spent hours in the green glow of the monitor learning BASIC.
+Some time later she detoured into digital marketing being a respected leader with over 8 years of experience in this area.
+Jessica is now a developer for &lt;a href=&quot;https://flatironschool.com&quot;&gt;Flatiron School&lt;/a&gt; - happily spending her days writing code that helps other people learn to code too.&lt;/p&gt;
+
+&lt;p&gt;You can follow Jessica on &lt;a href=&quot;https://twitter.com/jessrudder&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://github.com/jessrudder&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-jessica-rudder&quot;&gt;Te presentamos a Jessica Rudder&lt;/h1&gt;
+
+&lt;p&gt;Jessica decidió ser programadora cuando solo tenia 8 años, ella invirtió horas en el resplandor verde del monitor aprendiendo BASIC.
+Algún tiempo después ella se fue por el camino del Marketing Digital siendo una respetada líder con acerca de 8 años de experiencia en esta área.
+Actualmente trabaja como desarrolladora para &lt;a href=&quot;https://flatironschool.com&quot;&gt;Flatiron School&lt;/a&gt; - donde es feliz dedicando sus días a escribir código que ayuda a otras personas a aprendera escribir código.&lt;/p&gt;
+
+&lt;p&gt;Puedes seguir a Jessica en &lt;a href=&quot;https://twitter.com/jessrudder&quot;&gt;Twitter&lt;/a&gt; y &lt;a href=&quot;https://github.com/jessrudder&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/jessica_rudder</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/jessica_rudder</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet Oscar Rendón</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/oscar.jpg&quot; alt=&quot;Oscar Rendón&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oscar works as Software Developer (aka Parenthesis Quartermaster) at &lt;a href=&quot;http://barista-v.com/&quot;&gt;Barista Ventures&lt;/a&gt;, he has been working as a software consultant for many years, sharing his love with Ruby and recently functional programming.&lt;/p&gt;
+
+&lt;p&gt;He is an active member of the local community, where he co-organizes&lt;a href=&quot;http://www.meetup.com/medellin-rb/&quot;&gt;Medellin.rb&lt;/a&gt;, &lt;a href=&quot;http://railsgirls.com/medellin&quot;&gt;RailsGirls Medellín&lt;/a&gt; and &lt;a href=&quot;http://www.meetup.com/coljure&quot;&gt;Coljure&lt;/a&gt;. On his spare time you can find Oscar playing with his two kids while making some awesome creations with Art and Robotics (and sometimes they mix things up).&lt;/p&gt;
+
+&lt;p&gt;You can follow Oscar on &lt;a href=&quot;https://twitter.com/orendon&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://github.com/orendon&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;http://grafises.tumblr.com&quot;&gt;Tumbler&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-oscar-rendón&quot;&gt;Te presentamos a Oscar Rendón&lt;/h1&gt;
+
+&lt;p&gt;Oscar trabaja como desarrollador de software (también conocido como Parenthesis Quartermaster) en &lt;a href=&quot;http://barista-v.com/&quot;&gt;Barista Ventures&lt;/a&gt;, que ha estado trabajando como consultor de software desde hace muchos años, compartiendo su amor con Ruby y la programación funcional recientemente.&lt;/p&gt;
+
+&lt;p&gt;Él es un miembro activo de la comunidad local, donde co-organiza &lt;a href=&quot;http://www.meetup.com/medellin-rb/&quot;&gt;Medellin.rb&lt;/a&gt;, &lt;a href=&quot;http://railsgirls.com/medellin&quot;&gt;RailsGirls Medellín&lt;/a&gt; y &lt;a href=&quot;http://www.meetup.com/coljure&quot;&gt;Coljure&lt;/a&gt;. En su tiempo libre se puede encontrar Oscar jugando con sus dos hijos al tiempo que algunas creaciones impresionantes con Arte y Robótica.&lt;/p&gt;
+
+&lt;p&gt;Puedes seguir a Oscar en &lt;a href=&quot;https://twitter.com/orendon&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://github.com/orendon&quot;&gt;GitHub&lt;/a&gt; y &lt;a href=&quot;http://grafises.tumblr.com&quot;&gt;Tumbler&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/oscar_rendon</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/oscar_rendon</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet Sebastián Arcila</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/sebastian.jpg&quot; alt=&quot;Sebastián Arcila&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sebastián is a software linguist, as mathematician and programmer he loves to solve problems requiring strong use of algorithms and data structures.&lt;/p&gt;
+
+&lt;p&gt;He is a several times winner of ACM-ICPC contests, on his spare time you can find Sebastián burning down his house while playing with Arduino.&lt;/p&gt;
+
+&lt;p&gt;Nowadays Sebastián works as Algorithms and Architecture Director at &lt;a href=&quot;http://barista-v.com/&quot;&gt;Barista Ventures&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can follow him on &lt;a href=&quot;https://github.com/sarcilav&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/sarcilav&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-sebastián-arcila&quot;&gt;Te presentamos a Sebastián Arcila&lt;/h1&gt;
+
+&lt;p&gt;Sebastián es un lingüista de software, como matemático y programador le gusta resolver problemas que requieren una fuerte uso de algoritmos y estructuras de datos.&lt;/p&gt;
+
+&lt;p&gt;Ha ganado varias veces de concursos de ACM-ICPC, en su tiempo libre encontrarás a Sebastián incendiando su casa mientras juega con Arduino.&lt;/p&gt;
+
+&lt;p&gt;En la actualidad Sebastián trabaja como Director de Algoritmos y Arquitectura de &lt;a href=&quot;http://barista-v.com/&quot;&gt;Barista Ventures&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lo puedes seguir en &lt;a href=&quot;https://github.com/sarcilav&quot;&gt;GitHub&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/sarcilav&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 02 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/sebastian_arcila</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/sebastian_arcila</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet Rafael França</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/rafael.png&quot; alt=&quot;Rafael França&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rafael França is a &lt;a href=&quot;http://rubyonrails.org/core&quot;&gt;Rails Core Team Member&lt;/a&gt; since October 2012 and currently is &lt;a href=&quot;http://contributors.rubyonrails.org/contributors/&quot;&gt;#1 Rails contributor&lt;/a&gt;. Also, he has contributed to &lt;a href=&quot;https://github.com/elixir-lang/elixir/graphs/contributors&quot;&gt;Elixir&lt;/a&gt; and Simple Form. He works as a developer for &lt;a href=&quot;https://www.shopify.com&quot;&gt;Shopify&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He won a &lt;a href=&quot;http://rubyheroes.com/heroes/2014&quot;&gt;Ruby Hero&lt;/a&gt; award on April 2014.&lt;/p&gt;
+
+&lt;p&gt;He has spoken at other great conferences such as &lt;a href=&quot;http://www.rubyconf.com.br&quot;&gt;RubyConfBR&lt;/a&gt;, &lt;a href=&quot;http://railsconf.com&quot;&gt;RailsConf&lt;/a&gt;, &lt;a href=&quot;http://tropicalrb.com/en/&quot;&gt;Tropical Ruby&lt;/a&gt; and &lt;a href=&quot;http://rupy.com.br&quot;&gt;RuPy Brasil&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He will be flying in from São Paulo, Brazil and he is really excited to be speaking at RubyConf Colombia next September.&lt;/p&gt;
+
+&lt;p&gt;You can follow Rafael França on &lt;a href=&quot;https://github.com/rafaelfranca&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/rafaelfranca&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-rafael-frança&quot;&gt;Te presentamos a Rafael França&lt;/h1&gt;
+
+&lt;p&gt;Rafael França es miembro del equipo de &lt;a href=&quot;http://rubyonrails.org/core&quot;&gt;Rails Core&lt;/a&gt; desde Octubre de 2012 y actualmente es la &lt;a href=&quot;http://contributors.rubyonrails.org/contributors&quot;&gt;persona con más contribuciones&lt;/a&gt; al framework. Así mismo, él ha contribuido a &lt;a href=&quot;https://github.com/elixir-lang/elixir/graphs/contributors&quot;&gt;Elixir&lt;/a&gt; y a la gema Simple Form. Rafael trabaja como desarrollador de &lt;a href=&quot;https://www.shopify.com&quot;&gt;Shopify&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Él se ganó un premio como &lt;a href=&quot;http://rubyheroes.com/heroes/2014&quot;&gt;Ruby Hero&lt;/a&gt; en Abril 2014.&lt;/p&gt;
+
+&lt;p&gt;Rafael se ha presentado en otras grandes conferencias como &lt;a href=&quot;http://www.rubyconf.com.br&quot;&gt;RubyConfBR&lt;/a&gt;, &lt;a href=&quot;http://railsconf.com&quot;&gt;RailsConf&lt;/a&gt;, &lt;a href=&quot;http://tropicalrb.com/en/&quot;&gt;Tropical Ruby&lt;/a&gt; y &lt;a href=&quot;http://rupy.com.br&quot;&gt;Rupy Brasil&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Él estará visitandonos desde São Paulo, Brasil. Nos confesó que está realmente emocionado de dar una charla en RubyConf Colombia el próximo mes de Septiembre.&lt;/p&gt;
+
+&lt;p&gt;Puedes seguir a Rafael França en &lt;a href=&quot;https://github.com/rafaelfranca&quot;&gt;GitHub&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/rafaelfranca&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 02 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/rafael_franca</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/rafael_franca</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Programa de Becas de Diversidad</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/blog/scholarships.jpg&quot; alt=&quot;Programa de Becas de Diversidad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nos alegra anunciar nuestro programa de &lt;strong&gt;Becas de Diversidad&lt;/strong&gt;. Uno de nuestros objetivos es promover la participación de grupos poco representados en tecnología, por lo tanto, hemos destinado un &lt;strong&gt;número limitado de entradas gratuitas&lt;/strong&gt; para apoyar a las personas que pertenecen a estos grupos y no puedan asistir por razones financieras.&lt;/p&gt;
+
+&lt;h4 id=&quot;criterios-de-selección&quot;&gt;Criterios de selección&lt;/h4&gt;
+
+&lt;p&gt;La beca está dirigida a personas pertenecientes a grupos poco representados en tecnología como por ejemplo: LGBTQ, mujeres, afro-descendientes, indígenas y cualquier otro grupo social que usted considere. Los ganadores son seleccionados por el grupo de organizadores de RubyConf Colombia.&lt;/p&gt;
+
+&lt;h4 id=&quot;cómo-aplicar&quot;&gt;¿Cómo aplicar?&lt;/h4&gt;
+
+&lt;p&gt;Para aplicar solo es necesario llenar &lt;a href=&quot;https://rubyconfco.typeform.com/to/vmSkJ1&quot;&gt;este formulario&lt;/a&gt;. La convocatoria se cierra el día &lt;strong&gt;Miércoles 17 de Agosto del 2016&lt;/strong&gt; y daremos los resultados el día Sábado 20 de Agosto del 2016, no lo dejes pasar!&lt;/p&gt;
+
+&lt;h4 id=&quot;interesado-en-patrocinar-más-personas&quot;&gt;¿Interesado en patrocinar más personas?&lt;/h4&gt;
+
+&lt;p&gt;Entre más apoyo financiero recibamos, podremos becar más personas. Por lo tanto si quieres apoyar esta inicitiva para que más personas puedan asistir becadas a la conferencia puedes &lt;a href=&quot;https://ti.to/colombia-dev/rubyconf-colombia-2016/with/9giva-ioe2q&quot;&gt;comprar entradas para becarios acá&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nos vemos en Medellín!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;diversity-scholarship-program&quot;&gt;Diversity Scholarship Program&lt;/h1&gt;
+
+&lt;p&gt;We are pleased to announce our &lt;strong&gt;Diversity Scholarships&lt;/strong&gt; program. One of our goals is to promote the participation of groups underrepresented in technology. Therefore, we have allocated a &lt;strong&gt;limited number of free tickets&lt;/strong&gt; to support people belonging to these groups and unable to attend for financial reasons.&lt;/p&gt;
+
+&lt;h4 id=&quot;selection-criteria&quot;&gt;Selection criteria&lt;/h4&gt;
+
+&lt;p&gt;The scholarship is aimed at people from groups underrepresented in technology such as LGBTQ, women, Afro-descendants, indigenous and any other social group you believe. Winners are selected by the group of organizers RubyConf Colombia.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-apply&quot;&gt;How to apply?&lt;/h4&gt;
+
+&lt;p&gt;To apply you just need to fill out &lt;a href=&quot;https://rubyconfco.typeform.com/to/vmSkJ1&quot;&gt;this form&lt;/a&gt;. The call closes on &lt;strong&gt;Wednesday, August 17, 2016&lt;/strong&gt;, and gives the results on Saturday, August 20, 2016, day, do not miss it!&lt;/p&gt;
+
+&lt;h4 id=&quot;interested-in-sponsoring-more-people&quot;&gt;Interested in sponsoring more people?&lt;/h4&gt;
+
+&lt;p&gt;The more financial support we receive, we can give scholarships to more people. Therefore, if you want to provide more people with scholarships you &lt;a href=&quot;https://ti.to/colombia-dev/rubyconf-colombia-2016/with/9giva-ioe2q&quot;&gt;buy scholars tickets here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;See you in Medellin!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/diversity_scholarship_program</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/diversity_scholarship_program</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Win a ticket to RubyConf!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/blog/challenge-accepted.jpg&quot; alt=&quot;Challenge Accepted&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The challenge is to make a Quine in Ruby, a program that does not receive any input parameters and the output is the program &lt;a href=&quot;https://en.wikipedia.org/wiki/Quine_(computing)&quot;&gt;source code&lt;/a&gt; further, the code must be obfuscated, it means, it should be written, so that to it succeed when it is executed but it is not readable by a human. The source code must be original and unprecedented, and obfuscation must be done by hand.&lt;/p&gt;
+
+&lt;p&gt;You have until August 15 at 11:59 PM to send us your response, it must be sent as a private gist to our e-mail &lt;a mailto=&quot;organizers@rubyconf.co&quot;&gt;organizers@rubyconf.co&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The winner will be selected choose based only on the size of the sent file.&lt;/p&gt;
+
+&lt;p&gt;In the case of a tie, the winner is selected as the file has been sent first.&lt;/p&gt;
+
+&lt;p&gt;The winner must do a Hangout with the organizers of the conference explaining how the solution was implemented, and this hangout will be posted in Ruby meetups and the conference channel.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The 1st place will get a free ticket.&lt;/li&gt;
+  &lt;li&gt;The 2nd place, up to 5 participants, will receive a 50% discount.&lt;/li&gt;
+  &lt;li&gt;The 3rd place, up to 13 parcicipants will, receive a 25% discount.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can not miss this opportunity!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;gánate-una-entrada-a-rubyconf&quot;&gt;¡Gánate una entrada a RubyConf!&lt;/h1&gt;
+
+&lt;p&gt;El reto consiste en hacer un Quine en Ruby, es decir un programa que no reciba ningún parámetro de entrada y cuya salida es el &lt;a href=&quot;https://en.wikipedia.org/wiki/Quine_(computing)&quot;&gt;codigo fuente del programa&lt;/a&gt;, ademas, el código debe estar obfuscado, es decir, escrito de manera que se ejecute correctamente pero que no sea legible por un humano. El código fuente debe ser originar e inedito y la obfuscacion se debe hacer a mano.&lt;/p&gt;
+
+&lt;p&gt;Tienes hasta el 15 de Agosto a las 11:59PM para enviar tu respuesta, esta deberá ser enviada como un gist privado al nuestra dirección de correo &lt;a mailto=&quot;organizers@rubyconf.co&quot;&gt;organizers@rubyconf.co&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El ganador sera seleccionado únicamente basado en el tamaño del archivo que envíe.&lt;/p&gt;
+
+&lt;p&gt;En caso de empate, se selecciona como ganador al archivo que haya sido enviado primero.&lt;/p&gt;
+
+&lt;p&gt;El ganador deberá hacer un hangout con los organizadores de la conferencia explicando como soluciono el problema y este hangout sera publicado en los meetups de Ruby y en el canal de la conferencia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El 1ro puesto optendrá su entrada.&lt;/li&gt;
+  &lt;li&gt;El 2do puesto, un máximo de 5 personas recibiran un descuento del 50%.&lt;/li&gt;
+  &lt;li&gt;El 3ro puesto, un máximo de 13 participantes recibiran un descuento del 25%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;¡No puedes dejar pasar esta oportunidad!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/rubyconf_challenge</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/rubyconf_challenge</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet Camille Fournier</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/camille.jpg&quot; alt=&quot;Camille Fournier&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Camille Fournier is committer and &lt;a href=&quot;http://www.apache.org/foundation/governance/pmcs.html&quot;&gt;PMC member&lt;/a&gt; of the Apache ZooKeeper project and a Dropwizard framework PMC member. She is currently writing a book on engineering management and writing a column for O’Reilly, Ask the CTO.&lt;/p&gt;
+
+&lt;p&gt;Camille is the former head of engineering at Rent the Runway. She was previously a vice president at Goldman Sachs, specializing in infrastructure systems.&lt;/p&gt;
+
+&lt;p&gt;You can follow Camille on &lt;a href=&quot;https://twitter.com/skamille&quot;&gt;Twitter&lt;/a&gt;, read her writings in her &lt;a href=&quot;http://www.elidedbranches.com/&quot;&gt;blog&lt;/a&gt; and &lt;a href=&quot;https://medium.com/@skamille&quot;&gt;Medium&lt;/a&gt;, read her column &lt;a href=&quot;https://www.oreilly.com/people/b0050-camille-fournier&quot;&gt;Ask the CTO&lt;/a&gt; and see some of her &lt;a href=&quot;http://www.camilletalk.com/&quot;&gt;previous talks&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-camille-fournier&quot;&gt;Te presentamos a Camille Fournier&lt;/h1&gt;
+
+&lt;p&gt;Camille Fournier es committer y &lt;a href=&quot;http://www.apache.org/foundation/governance/pmcs.html&quot;&gt;miembro PMC&lt;/a&gt; del proyecto Apache ZooKeeper y miembro PMC del framework Dropwizard. Actualmente se encuentra escribiendo un libro sobre gestión de ingenieria y escribiendo una columna para O’Reilly, Ask the CTO.&lt;/p&gt;
+
+&lt;p&gt;Camille es la ex-jefe de ingeniería de Rent the Runway. Previamente fue vicepresidente en Goldman Sachs, especializandose en sistemas de infraestructura.&lt;/p&gt;
+
+&lt;p&gt;Puedes seguir a Camille en &lt;a href=&quot;https://twitter.com/skamille&quot;&gt;Twitter&lt;/a&gt;, leer sus escritos en su &lt;a href=&quot;http://www.elidedbranches.com/&quot;&gt;blog&lt;/a&gt; y &lt;a href=&quot;https://medium.com/@skamille&quot;&gt;Medium&lt;/a&gt;, leer su columna &lt;a href=&quot;https://www.oreilly.com/people/b0050-camille-fournier&quot;&gt;Ask the CTO&lt;/a&gt; y mirar algunas de sus &lt;a href=&quot;http://www.camilletalk.com/&quot;&gt;charlas previas&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Jul 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/camille_fournier</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/camille_fournier</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Meet Chanelle Henry</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/speakers/chanelle.jpg&quot; alt=&quot;Chanelle Henry&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UPDATE: we are sad to announce that unfortunately due to personal circumstances Chanelle won’t be able to make it to RubyConf Colombia 2016.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With her background in Psychology, computer science and art direction/design, among others, Chanelle is passionate about solving problems and creating methodologies to improve the UX process. She works with all kind of clients, including Fortune 50 companies, helping them develop a UX strategy.&lt;/p&gt;
+
+&lt;p&gt;She has been designing webpages, consulting and spreading the gospel of UX for many years. She also wrote a &lt;a href=&quot;www.bit.ly/mutednation&quot;&gt;book&lt;/a&gt; about our struggles in a distracting, LCD-magnetized eyed society.&lt;/p&gt;
+
+&lt;p&gt;A technohippie that truly believes design can change the world, and that it is not only about our interaction with technology but how we relate to each other. As she says, “humbly a genius”!&lt;/p&gt;
+
+&lt;p&gt;You can follow Chanelle on &lt;a href=&quot;https://twitter.com/chanelle777&quot;&gt;Twitter&lt;/a&gt; and check her &lt;a href=&quot;http://www.chanellehenry.com/&quot;&gt;webpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;te-presentamos-a-chanelle-henry&quot;&gt;Te presentamos a Chanelle Henry&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;ACTUALIZACIÓN: estamos tristes de anunciar que lamentablemente debido a circunstancias personales, Chanelle no podrá asistir a RubyConf Colombia 2016.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Con su formación en Sicologia, Ciencias de la computación y Direccion/Diseño artistico, entre otros, Chanelle es apasionada por resolver problemas y crear metodologías que mejoren la experiencia de usuario. Ha trabajado con todo tipo de clientes, incluyendo compañias Fortune 50, ayudándoles a desarollar una estrategia de UX.&lt;/p&gt;
+
+&lt;p&gt;Ella ha estado diseñando webpages, haciendo consultoría y compartiendo el evangelio de UX por muchos años. También escribió un &lt;a href=&quot;www.bit.ly/mutednation&quot;&gt;libro&lt;/a&gt; acerca de nuestros desafíos en una sociedad llena de distracciones, con los ojos pegados a una pantalla.&lt;/p&gt;
+
+&lt;p&gt;Una tecnohippie que cree que el diseño realmente puede cambiar al mundo, y que no solo se trata de como nos relacionamos con la tecnología si no con otras personas. Como ella misma dice, “humildemente una genio”!&lt;/p&gt;
+
+&lt;p&gt;Puedes seguir a Chanelle en &lt;a href=&quot;https://twitter.com/chanelle777&quot;&gt;Twitter&lt;/a&gt; y visitar su &lt;a href=&quot;http://www.chanellehenry.com/&quot;&gt;página&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0500</pubDate>
+        <link>http://www.rubyconf.co/blog/chanelle_henry</link>
+        <guid isPermaLink="true">http://www.rubyconf.co/blog/chanelle_henry</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

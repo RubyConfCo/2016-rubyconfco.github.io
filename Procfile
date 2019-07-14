@@ -1,1 +1,1 @@
-web: jekyll serve -P $PORT
+web: rackup -p $PORT
